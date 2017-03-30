@@ -1,0 +1,28 @@
+/*Login Page Script*/
+
+body {
+    background: url(http://mymaplist.com/img/parallax/back.png);
+    background-color: #444;
+    background: url(http://mymaplist.com/img/parallax/pinlayer2.png), url(http://mymaplist.com/img/parallax/pinlayer1.png), url(http://mymaplist.com/img/parallax/back.png);
+}
+
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+
+/*Register Form and Avater script*/
+
+.kv-avatar .file-preview-frame,
+.kv-avatar .file-preview-frame:hover {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    text-align: center;
+}
+
+.kv-avatar .file-input {
+    display: table-cell;
+    max-width: 220px;
+}
